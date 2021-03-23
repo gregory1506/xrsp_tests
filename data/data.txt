@@ -1,0 +1,3 @@
+url = 'http://landsat-pds.s3.amazonaws.com/c1/L8/042/034/LC08_L1TP_042034_20170616_20170629_01_T1/'
+redband = 'LC08_L1TP_042034_20170616_20170629_01_T1_B{}.TIF'.format(4)
+nirband = 'LC08_L1TP_042034_20170616_20170629_01_T1_B{}.TIF'.format(5)
